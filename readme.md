@@ -28,5 +28,8 @@ npm run build
 # Ekran Görüntüleri
 
 ![Alt text](/masaustu.gif)
+
+--
+
 ![Alt text](/mobil.gif)
 
