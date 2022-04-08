@@ -33,3 +33,5 @@ npm run build
 
 ![Alt text](/mobil.gif)
 
+Traversy Media'ya teşekkürler.
+
