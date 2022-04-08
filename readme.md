@@ -3,6 +3,7 @@
 This is the project from my 2022 Tailwind Crash Course on YouTube.
 
 ![Alt text](/masaustu.gif)
+![Alt text](/mobil.gif)
 
 # Usage
 
