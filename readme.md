@@ -1,28 +1,32 @@
-# Tailwind Manage Landing Page
+# Tailwind Landing Page - Figma to "only" Tailwind
 
-This is the project from my 2022 Tailwind Crash Course on YouTube.
+Selamlar, Figma'dan gelen tasarımı **sadece Tailwind kullanmaya çalışarak** kullanılabilir bir internet sitesine çevirme işlemi gerçekleştirdim. Aşağıda ki GIF'lerden son halini görebilirsiniz. İşlemlerin nasıl yapıldığını da adım adım olarak burada ki  ["TailwindKullanimi.pdf"](https://github.com/RSametSamyeli/tailwindcss-design-to-css/blob/main/TailwindKullanimi.pdf)  dosyasından ulaşabilirsiniz.
 
-![Alt text](/masaustu.gif)
-![Alt text](/mobil.gif)
+# Kurulum
 
-# Usage
-
-Install dependencies (Tailwind)
+Tailwind kurulumu
 
 ```
 npm install
 ```
 
-Run the Tailwind CLI to compile the **input.css** during development. The output file is **css/main.css**
+İşlemler **input.css** dosyasında gerçekleşiyor. Tailwind dosya yapısı ise burada **css/main.css**
 
 ```
 npm run watch
 ```
 
-To build once run...
+Çalıştırma işlemini build yapabiliriz.
 
 ```
 npm run build
 ```
+# Bu işlemler nasıl yapıldığını ve Tailwind kullanımı hakkında oluşturmuş olduğum içeriğime ulaşmak için
 
-You can edit the scripts in package.json and the tailwind.config.js file to change input/output locations
+["TailwindKullanimi.pdf"](https://github.com/RSametSamyeli/tailwindcss-design-to-css/blob/main/TailwindKullanimi.pdf)
+
+# Ekran Görüntüleri
+
+![Alt text](/masaustu.gif)
+![Alt text](/mobil.gif)
+
