@@ -7,6 +7,7 @@ module.exports = {
       lg: '976px',
       xl: '1440px',
     },
+    
     extend: {
       colors: {
         brightRed: 'hsl(12, 88%, 59%)',

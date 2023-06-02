@@ -10,7 +10,8 @@ Tailwind kurulumu
 npm install
 ```
 
-İşlemler **input.css** dosyasında gerçekleşiyor. Tailwind dosya yapısı ise burada **css/main.css**
+İşlemler **input.css** dosyasında gerçekleşiyor. Tailwind dosya yapısı ise
+ **css/main.css**
 
 ```
 npm run watch
